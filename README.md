@@ -1,4 +1,6 @@
 
+ **Methodology**
+![model_structure](./images/model3.jpg)
 
 ## Requirements
 
